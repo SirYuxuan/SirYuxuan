@@ -1,6 +1,6 @@
 ## Hello, I'm Yuxuan. Welcome to my home page
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/siryuxuan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siryuxuan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siryuxuan&layout=compact&langs_count=20&theme=dracula"/>
 </div>
