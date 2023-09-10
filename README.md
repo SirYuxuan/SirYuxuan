@@ -19,7 +19,7 @@ I am passionate about solving complex problems, delivering user-friendly experie
 
 ### Contact Information
 
-- **GitHub:** [YourGitHubUsername](https://github.com/SirYuxuan)
+- **GitHub:** [Github/SirYuxuan](https://github.com/SirYuxuan)
 - **Email:** 1718018032@qq.com  
 - **Personal Website:** [Blog](https://www.yuxuan66.com)
 
