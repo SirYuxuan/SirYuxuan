@@ -1,4 +1,30 @@
 ## Hello, I'm Yuxuan. Welcome to my home page
+
+## Personal Introduction
+
+Hello, I'm Yuxuan, a passionate full-stack developer with a strong background in web development. I am enthusiastic about crafting innovative and efficient solutions to real-world challenges. My expertise spans both front-end and back-end development, and I thrive in collaborative, remote work environments.
+
+### Skills
+
+- **Front-end Development:** HTML, CSS, JavaScript, React, Vue.js
+- **Back-end Development:** Java,.Net,PHP,Python,Go
+- **Databases:** MongoDB, PostgreSQL, MySQL
+- **Tools:** Git, VS Code, Docker
+- **Cloud Services:** AWS, Azure
+
+
+### My Vision
+
+I am passionate about solving complex problems, delivering user-friendly experiences, and continuously learning new technologies and tools. I am actively seeking remote work opportunities to collaborate with innovative teams in building outstanding applications. If you're interested in working with me, feel free to get in touch.
+
+### Contact Information
+
+- **GitHub:** [YourGitHubUsername](https://github.com/SirYuxuan)
+- **Email:** 1718018032@qq.com  
+- **Personal Website:** [Blog](https://www.yuxuan66.com)
+
+Let's create exciting projects together and make a difference in the world!
+
 <div align="center">
   <a href="https://github.com/siryuxuan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siryuxuan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
