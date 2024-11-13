@@ -177,9 +177,6 @@
  
 </details>
 
-## 最近的GitHub活动 ✅
-
-![Metrics](https://metrics.lecoq.io/insights/SirYuxuan)
 
 ## GitHub个人资料奖杯 🏆
 
